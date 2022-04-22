@@ -1,6 +1,6 @@
 # Deeply-Supervised-Nets (DSN)
 
-We implement [[Gallagher et. al, 2014]](https://arxiv.org/abs/1409.5185), and run experiments to test how well their proposed technique (to add a companion SVM objective function to every layer a neural network) holds in a context not explored by the authors. Whereas the authors focus on applying the technique to CNNs and computer vision datasets (i.e. MNIST, CIFAR), we explore DSNs performance with Multi-layer Perceptrons (MLP) on categorical data.
+We implement [[Gallagher et. al, 2014]](https://arxiv.org/abs/1409.5185), and run experiments to test how well their proposed technique (to add a companion SVM objective function to every layer of a neural network) holds in a context not explored by the authors. Whereas the authors focus on applying the technique to CNNs and computer vision datasets (i.e. MNIST, CIFAR), we explore DSNs performance with Multi-layer Perceptrons (MLP) on categorical data.
 
 ## File Structure
 
